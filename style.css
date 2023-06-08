@@ -1,0 +1,57 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Arial';
+}
+#tooltip {
+    position: absolute;
+    position: absolute;
+    padding: 10px;
+    font: 12px Arial;
+    box-shadow: 1px 1px 10px rgba(128, 128, 128, 0.6);
+    pointer-events: none;
+    display: none;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #legend {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .legend-block {
+    width: 40px;
+    height: 20px;
+    margin: 0 5px;
+  }
+  
+  .legend-text {
+    font-size: 12px;
+  }
+  
+  .county {
+    stroke: #fff;
+  }
+  #title {
+    font-size: 3.5rem;
+  }
+  
+  #description {
+    text-align: center;
+  }
+  
+  #source {
+    align-self: flex-end;
+    margin-top: 1rem;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  
