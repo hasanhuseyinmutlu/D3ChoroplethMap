@@ -1,7 +1,7 @@
 # Choropleth Map
 
 This is a web application that displays a choropleth map representing education data across different counties in the United States.
-You can acces live [page](https://xacah-x.github.io/D3ChoroplethMap/)
+You can acces live [page](https://hasanhuseyinmutlu.github.io/D3ChoroplethMap/)
 
 ## Description
 
